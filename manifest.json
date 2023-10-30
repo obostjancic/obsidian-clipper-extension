@@ -6,7 +6,7 @@
   },
   "name": "Obsidian clipper",
   "description": "Clip to obsidian",
-  "homepage_url": "http://blog.self.li/post/16366939413/how-to-convert-bookmarklet-to-chrome-extension",
+  "homepage_url": "https://github.com/obostjancic/obsidian-clipper-extension",
   "icons": {
     "16": "icon-16.png",
     "48": "icon-48.png",
